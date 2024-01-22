@@ -4,12 +4,8 @@ This is a simple ReactJS-based counter application with additional features to i
 
 ## Features
 
-- Increment counter by 1
-- Increment counter by 2
-- Increment counter by 5
-- Decrement counter by 1
-- Decrement counter by 2
-- Decrement counter by 5
+- Increment counter by 1, 2 and 5
+- Decrement counter by 1, 2 and 5
 
 ## Getting Started
 
@@ -24,7 +20,6 @@ Make sure you have Node.js and npm installed on your machine.
    ```bash
    git clone https://github.com/nikunjpansari/Counter-App.git
 
-   
 2. **Navigate to the project directory:**
 
 	```bash
